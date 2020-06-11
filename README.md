@@ -1,2 +1,3 @@
 # hello-world
-My start
+This is the just a beginning! 
+Lets get started!
